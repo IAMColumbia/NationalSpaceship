@@ -11,4 +11,4 @@
 
 ## Information
 <a href="development.md" title="Development">Development Requirements</a>
-<a href="issue_requirements" title="Issue Requirements">Issue Requirements</a>
+<a href="issue_requirements.md" title="Issue Requirements">Issue Requirements</a>
