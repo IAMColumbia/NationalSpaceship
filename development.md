@@ -2,7 +2,7 @@
 
 ## Issues
 If you're looking for an overview of what we require of an issue for it to be
-moved along the process, please check out the <a href="issue_requirements" title="Issue Requirements">Issue Requirements</a>
+moved along the process, please check out the <a href="issue_requirements.md" title="Issue Requirements">Issue Requirements</a>
 documentation, which should provide that insight. If you're looking for the
 entire process, then this is the place you wan't to be.
 
