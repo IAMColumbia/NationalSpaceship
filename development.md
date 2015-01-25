@@ -43,6 +43,7 @@ code being considered "done" is as follows:
 - Log an issue that will be tied to a feature.
 - Students are responsible for assigning the appropriate labels to the issue.
 - Instructor will grade content when the 'ready for review' label has been assigned.
+- All feature branches must be tied to an issue with requirements filled out.
 
 ---
 
