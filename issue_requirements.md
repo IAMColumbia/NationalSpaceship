@@ -9,6 +9,7 @@ Here's what we need to be able to say that an issue can be moved from the _backl
 
 ### Name
 The issue name should be accurately and succinctly describe what's going on.
+Issue must include student's initials as to associate the issue with their milestones.
 
 ### Description
 There needs to be a well rounded description that accurately describes
