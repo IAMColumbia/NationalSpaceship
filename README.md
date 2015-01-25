@@ -10,5 +10,5 @@
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
 
 ## Information
-<a href="development" title="Development">Development</a>
+<a href="Development Requirements" title="Development Requirements">Development Requirements</a>
 <a href="issue_requirements" title="Issue Requirements">Issue Requirements</a>
