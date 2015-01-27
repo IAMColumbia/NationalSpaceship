@@ -11,9 +11,8 @@ Each label has a requirement that must be met before it can be added to the
 issue. Details around those are below.
 
 #### milestones
-It should have whatever information is required for the issue to exist. This
-Instructor will manage a milestone for each student and will assign the correct 
-milestone to each student's issue. Issue's must be formmated correctly.
+The instructor will manage a milestone for each student and will assign the correct 
+milestone to each student's issue. Milestones for each student will help manage issues to stay associated with each project. Issue's must be formmated correctly.
 
 #### ready for review (by instructor)
 This is the point where code should be considered "done". The requirements for
