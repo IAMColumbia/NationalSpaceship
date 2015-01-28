@@ -5,6 +5,10 @@
 - Noah Johnson
     - Email: `noahmjohnson@gmail.com`
     - Role\Major: `Instructor`
+    
+- Steven Cal [Spencer]
+    -Email: 'Steven.Cal@loop.colum.edu'
+    -Major: 'Game Developer (Pending to Game Sound)'
 
 ## Projects
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
