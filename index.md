@@ -5,9 +5,10 @@
 - Noah Johnson
     - Email: `noahmjohnson@gmail.com`
     - Role\Major: `Instructor`
-- Tyler Dantuma
-    - Email: `TylerDantuma@gmail.com`
-    - Role/Major: Game Designer
+- Samuel Loda
+    - Email: `samuel.loda@loop.colum.edu`
+    - Role\Major: `Design Concentration`
+
 ## Projects
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
 
