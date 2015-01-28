@@ -34,7 +34,7 @@
     - Email: `marco.garcia@loop.colum.edu`
     - Role\Major: `Game Programming`
 
--Lyon Loi
+- Lyon Loi
     - Email: `lyonloi2002@gmail.com`
     - Role\Major: `Game design student`
     - Game designer from Hong Kong!
@@ -55,7 +55,7 @@
 	- Email: `Benjamin.Wolpoff@loop.colum.edu`
 	- Role\Major: `Game Design`
 
--Corina Medrano
+- Corina Medrano
     - Email: `corina.medrano@loop.colum.edu`
     - Role/Major: `Video Game Developement`
     - Nickname: `Cory`
