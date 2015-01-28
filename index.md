@@ -35,9 +35,9 @@
     - Role\Major: `Game Programming`
 
 -Lyon Loi
-    -Email: `lyonloi2002@gmail.com`
-    -Role\Major: `Game design student`
-    -Game designer from Hong Kong!
+    - Email: `lyonloi2002@gmail.com`
+    - Role\Major: `Game design student`
+    - Game designer from Hong Kong!
 
 - Ian Harris
     - Email: `ian.harris1@loop.colum.edu`
@@ -56,9 +56,9 @@
 	- Role\Major: `Game Design`
 
 -Corina Medrano
-    -Email: `corina.medrano@loop.colum.edu`
-    -Role/Major: `Video Game Developement`
-    -Call me Cory.
+    - Email: `corina.medrano@loop.colum.edu`
+    - Role/Major: `Video Game Developement`
+    - Nickname: `Cory`
 
 ## Projects
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
