@@ -6,6 +6,11 @@
     - Email: `noahmjohnson@gmail.com`
     - Role\Major: `Instructor`
 
+- Langston Lewis
+    - Email: 'langston.lewis@loop.colum.edu'
+    - Role/Major: 'Video game design'
+
+
 ## Projects
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
 
