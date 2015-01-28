@@ -60,6 +60,10 @@
     - Role/Major: `Video Game Developement`
     - Nickname: `Cory`
 
+- Ethan Johnson
+    - Email: `ethan.johnson@loop.colum.edu`
+    - Role\Major: `Game Design`
+
 ## Projects
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
 
