@@ -5,9 +5,12 @@
 - Noah Johnson
     - Email: `noahmjohnson@gmail.com`
     - Role\Major: `Instructor`
-- Tyler Dantuma
-    - Email: `TylerDantuma@gmail.com`
-    - Role/Major: Game Designer
+
+-Lyon Loi
+    - Email: lyonloi2002@gmail.com
+    - Game design student
+    - Game designer from Hong Kong!
+
 ## Projects
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
 
