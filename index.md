@@ -5,9 +5,11 @@
 - Noah Johnson
     - Email: `noahmjohnson@gmail.com`
     - Role\Major: `Instructor`
-- Tyler Dantuma
-    - Email: `TylerDantuma@gmail.com`
-    - Role/Major: Game Designer
+
+- Jacob Berry
+    - Email: `myjacobberry92@gmail.com`
+    - Major: `Game Design`
+
 ## Projects
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
 
