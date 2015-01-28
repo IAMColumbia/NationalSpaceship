@@ -5,6 +5,9 @@
 - Noah Johnson
     - Email: `noahmjohnson@gmail.com`
     - Role\Major: `Instructor`
+- Phil Zarcone
+    - Email: `phillip.zarcone@loop.colum.edu`
+    - Role/Major: `Ranged DPS`
 
 ## Projects
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
