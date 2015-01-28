@@ -60,6 +60,16 @@
     - Role/Major: `Video Game Developement`
     - Nickname: `Cory`
 
+- Chase Starks
+    - Email: `Chase.Starks@loop.colum.edu`
+
+- Terrance Franklin
+    - Email: `Terrance.Franklin@loop.colum.edu`
+
+- Langston Lewis
+    - Email: `Langston.Lewis@loop.colum.edu` 
+
+
 ## Projects
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
 
