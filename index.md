@@ -5,9 +5,12 @@
 - Noah Johnson
     - Email: `noahmjohnson@gmail.com`
     - Role\Major: `Instructor`
-- Tyler Dantuma
-    - Email: `TylerDantuma@gmail.com`
-    - Role/Major: Game Designer
+
+-Corina Medrano
+    -Email: `corina.medrano@loop.colum.edu`
+    -Role/Major: `Video Game Developement`
+    -Called me Cory.
+
 ## Projects
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
 
