@@ -5,14 +5,14 @@
 - Noah Johnson
     - Email: `noahmjohnson@gmail.com`
     - Role\Major: `Instructor`
+    
 - Tyler Dantuma
-
     - Email: `TylerDantuma@gmail.com`
-    - Role/Major: Game Designer
+    - Role/Major: `Game Designer`
 
-- Steven Cal [Spencer]
-   -Email: 'Steven.Cal@loop.colum.edu'
-    -Major: 'Game Development'
+- Steven Cal (Spencer)
+   -Email: `Steven.Cal@loop.colum.edu`
+   -Major: `Game Development`
 
 ## Projects
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
