@@ -5,6 +5,9 @@
 - Noah Johnson
     - Email: `noahmjohnson@gmail.com`
     - Role\Major: `Instructor`
+- Jacob Berry
+    - Email: `myjacobberry92@gmail.com`
+    - Major: `Game Design`
 - Tyler Dantuma
     - Email: `TylerDantuma@gmail.com`
     - Role/Major: Game Designer
