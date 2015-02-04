@@ -11,7 +11,7 @@ Here's what we need to be able to say that an issue can be moved from the _backl
 The issue name should be accurately and succinctly describe what's going on.
 Issue must include student's initials as to associate the issue with their milestones.
 Name must follow this standard: (StudentInitials)_NameOfFeature
-eg. NJ_JumpMechanic
+``` eg. NJ_JumpMechanic ```
 
 ### Description
 There needs to be a well rounded description that accurately describes
