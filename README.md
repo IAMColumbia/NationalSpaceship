@@ -9,7 +9,7 @@
     
 - Tyler Dantuma
     - Email: `TylerDantuma@gmail.com`
-    - Role/Major: `Game Designer`
+    - Role/Major: `Game Designer` | `Frost Mage` | `Ranged DPS` | `Ice Block Tank`
 
 - Steven Cal (Spencer)
    - Email: `Steven.Cal@loop.colum.edu`
